@@ -1,21 +1,20 @@
-# https://bistro-cafe-120e2.web.app/
+## https://bistro-cafe-120e2.web.app/
 
-#### Features: 
-## User Features:
-  User Login, User Dashboard, Book Order
-  Payment Gateway, Payment History
+## Features: 
+### User Features:
+####  User Login, User Dashboard, Book Order
+####  Payment Gateway, Payment History
 
-## Admin Features:
-  Login, Admin Dahsboard, 
-  Add/Update/Delete menu Items
-  Control User Roles
+### Admin Features:
+####  Login, Admin Dahsboard, 
+####  Add/Update/Delete menu Items
+####  Control User Roles
 
-## Additional Features:
-  JSON web token verifications
-  Admin Authorizations
+### Additional Features:
+####  JSON web token verifications
+####  Admin Authorizations
 
-## Admin Login Credentials
+### Admin Login Credentials
 (to get access to admin Dashboard)
-  
-  mail: admin@mail.com
-  psw: admin123
+####  mail: admin@mail.com
+####  psw: admin123
